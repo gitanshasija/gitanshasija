@@ -56,11 +56,12 @@
 
 ---
 
-# 📊 GitHub Statistics
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitanshasija&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanshasija&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gitanshasija&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanshasija&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -73,38 +74,17 @@
 
 ---
 
-# 📈 Contribution Activity
+<h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitanshasija&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitanshasija&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
----
-
-# ⭐ Featured Projects
-
+# ⭐ Featured Projects\
 <p align="center">
-
-  <a href="https://github.com/gitanshasija/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitanshasija&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+  <a href="https://github.com/gitanshasija/DSA-Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitanshasija&repo=DSA-Java&theme=tokyonight&hide_border=true" />
   </a>
-
-  <a href="https://github.com/gitanshasija/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitanshasija&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/gitanshasija/YOUR_REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitanshasija&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true" alt="Project 3"/>
-  </a>
-
-  <a href="https://github.com/gitanshasija/YOUR_REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitanshasija&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true" alt="Project 4"/>
-  </a>
-
 </p>
 
 ---
