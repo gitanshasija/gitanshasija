@@ -15,26 +15,26 @@
 * 🌱 Currently learning **Data Structures & Algorithms in Java**
 * 💻 Exploring **Web Development**
 * 🧠 Improving my **problem-solving skills**
-* 🚀 Building projects and learning by doing
-* 📚 Always learning something new
-* 📫 Reach me at **[gitansh220@gmail.com](mailto:gitansh220@gmail.com)**
+* 🚀 Building projects and learning through practice
+* 📚 Consistently working on my coding journey
+* 📫 Email: **[gitansh220@gmail.com](mailto:gitansh220@gmail.com)**
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/gitansh1076093">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" alt="Twitter"/>
-  </a>
   <a href="https://linkedin.com/in/gitanshasija">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kaggle.com/gitanshasija">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="Kaggle"/>
+  <a href="https://twitter.com/gitansh1076093">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://leetcode.com/gitanshasija">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://kaggle.com/gitanshasija">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
 
@@ -43,25 +43,18 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
+
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,react,mysql,git,github,figma" />
+
 </p>
 
 ---
 
-
-<h2>📊 GitHub Stats</h2>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitanshasija&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanshasija&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 </p>
 
 ---
@@ -69,71 +62,82 @@
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gitanshasija&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=gitanshasija&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-<h2>📈 Contribution Activity</h2>
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitanshasija&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitanshasija&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
-# ⭐ Featured Projects\
+---
+
+# 🏆 GitHub Achievements
+
 <p align="center">
-  <a href="https://github.com/gitanshasija/DSA-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitanshasija&repo=DSA-Java&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gitanshasija&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# ⭐ Featured Project
+
+<p align="center">
+  <a href="https://github.com/gitanshasija/DSA">
+    <img src="./profile/dsa-project.svg" width="49%" alt="DSA Repository"/>
   </a>
 </p>
 
----
-
-# 🎯 Current Goals
-
-* 🔹 Master **DSA in Java**
-* 🔹 Solve more **LeetCode problems**
-* 🔹 Improve **problem-solving**
-* 🔹 Learn **Web Development**
-* 🔹 Build real-world projects
-* 🔹 Learn **Backend Development**
-* 🔹 Improve my Git & GitHub workflow
+<p align="center">
+  <b>📚 DSA in Java</b><br>
+  My Data Structures & Algorithms practice and problem-solving journey using Java.
+</p>
 
 ---
 
-# 📚 Learning Journey
+# 🎯 Current Learning Goals
+
+<p align="center">
+
+| Goal               | Status       |
+| :----------------- | :----------- |
+| ☕ Java             | 🟢 Learning  |
+| 🧠 DSA             | 🟢 Learning  |
+| 💻 Problem Solving | 🟢 Improving |
+| 🌐 Web Development | 🟡 Learning  |
+| 🔧 Git & GitHub    | 🟡 Improving |
+| 🚀 Projects        | 🟡 Building  |
+
+</p>
+
+---
+
+# 💻 My Coding Journey
 
 ```text
-Data Structures & Algorithms   ███████████░░░   Learning
-Java                           ███████████░░░   Learning
-Problem Solving                ██████████░░░░   Improving
-Web Development                ███████░░░░░░░   Learning
-Projects                       ██████░░░░░░░░   Building
-Git & GitHub                   ████████░░░░░░   Improving
+Learn → Practice → Build → Debug → Improve → Repeat 🚀
 ```
 
----
-
-## 💡 Developer Mindset
-
-<p align="center">
-
-### Learn → Build → Debug → Improve → Repeat 🚀
-
-</p>
+I'm currently focused on strengthening my fundamentals in **Java and DSA** while gradually expanding into **Web Development**.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/gitanshasija">
-    <img src="https://img.shields.io/github/followers/gitanshasija?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/gitanshasija?tab=repositories">
-    <img src="https://img.shields.io/github/stars/gitanshasija?label=Total%20Stars&style=for-the-badge" alt="GitHub Stars"/>
-  </a>
-</p>
+# 📌 Goals
+
+* [ ] Master DSA in Java
+* [ ] Solve more LeetCode problems
+* [ ] Build useful development projects
+* [ ] Learn Backend Development
+* [ ] Improve Git & GitHub skills
+* [ ] Build a strong software development portfolio
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Keep learning. Keep building. Keep improving. 🚀</i>
 </p>
-
