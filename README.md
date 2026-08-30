@@ -50,14 +50,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
-  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
-</p>
-
----
 
 # 🔥 GitHub Contribution Streak
 
@@ -67,21 +59,7 @@
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitanshasija&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitanshasija&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies"/>
-</p>
-
----
 
 # ⭐ Featured Project
 
