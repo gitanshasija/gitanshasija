@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 * 🌱 Currently learning **Data Structures & Algorithms in Java**
 * 💻 Exploring **Web Development**
