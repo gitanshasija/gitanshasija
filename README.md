@@ -82,7 +82,7 @@
 
 | Goal               | Status       |
 | :----------------- | :----------- |
-| ☕ Java             | 🟢 Learning  |
+| ☕ Java            | 🟢 Learning  |
 | 🧠 DSA             | 🟢 Learning  |
 | 💻 Problem Solving | 🟢 Improving |
 | 🌐 Web Development | 🟡 Learning  |
