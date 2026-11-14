@@ -80,8 +80,8 @@
 
 <p align="center">
 
-| Goal               | Status       |
-| :----------------- | :----------- |
+| Goal                | Status       |
+| :-----------------  | :----------- |
 | ☕ Java            | 🟢 Learning  |
 | 🧠 DSA             | 🟢 Learning  |
 | 💻 Problem Solving | 🟢 Improving |
