@@ -61,7 +61,7 @@
 
 
 
-# ⭐ Featured Project
+# ⭐ Featured Projects
 
 <p align="center">
   <a href="https://github.com/gitanshasija/DSA">
